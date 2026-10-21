@@ -1,0 +1,10 @@
+UMATRONIX — VERSIÓN INTEGRADA
+
+Archivos:
+- index.html: estructura de la página.
+- styles.css: diseño adaptable a escritorio, tableta y celular.
+- app.js: catálogo, categorías, agregar/editar/eliminar elementos, imágenes, mi lista, confirmación de eliminación, fondo personalizado y pantalla visual de inicio de sesión.
+
+Para abrir: descomprime la carpeta y abre index.html en el navegador. Para editar, abre la carpeta en Visual Studio Code. Se recomienda usar Live Server.
+
+El catálogo comienza vacío para que agregues tus propios elementos. Los elementos, imágenes y fondo se guardan localmente en el navegador de ese dispositivo. El inicio de sesión es solo una interfaz visual; no autentica cuentas reales.
